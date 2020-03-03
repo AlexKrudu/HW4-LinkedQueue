@@ -1,4 +1,5 @@
 import queue.*;
+
 public class Main {
     public static void fill(Queue queue) {
         for (int i = 0; i < 1; i++) {
